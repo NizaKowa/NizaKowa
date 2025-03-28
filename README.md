@@ -39,7 +39,7 @@ Stay tuned for my upcoming projects!
 
 ## 📫 Connect With Me  
 
-🔗 *LinkedIn:* [linkedin.com/in/nizakowa](https://linkedin.com/in/nizakowa)_  
+🔗 *LinkedIn:* [linkedin.com/in/nizakowa](https://linkedin.com/in/nizakowa)
 📩 *Email:* nizakowa15@gmail.com 
 
 ---
