@@ -1,52 +1,89 @@
-👋 Hi, I'm Niza Kowa  
+Niza Kowa
 
-### 🚀 Aspiring DevOps Engineer | IT Student | Tech Enthusiast  
+Information Technology Student | Aspiring AI/ML Engineer | Software Developer
 
-Welcome to my GitHub profile! I'm a *second-year IT student* passionate about technology, cloud computing, and automation. I'm currently exploring DevOps principles* and learning about Linux, cloud platforms, and automation tools* to build a solid foundation for my future career.  
+I am a third-year Information Technology student with a strong interest in Artificial Intelligence, Machine Learning, and software engineering. I am passionate about developing technology-driven solutions, exploring emerging technologies, and applying computational thinking to real-world problems.
 
----
+My current focus is building a solid foundation in Python, machine learning, data science, and software development while continuously expanding my technical capabilities through hands-on projects and independent learning.
 
-🔧 Technologies & Tools I'm Learning  
-
-*💻 Programming & Scripting:* C++, Python (beginner), Bash (beginner)  
-*☁ Cloud & Platforms:* AWS, Azure (beginner)  
-*🔨 DevOps & Automation:* Git, Linux (Ubuntu, CentOS), Docker (beginner)  
-*🛠 Tools & OS:* VS Code, Windows, Linux  
+I believe in continuous learning, practical experimentation, and building technology with purpose.
 
 ---
 
-📌 Future Projects (Coming Soon 🚀)  
+Technical Skills & Technologies
 
-I'm currently building my *DevOps knowledge* and plan to work on:  
+Programming Languages
 
-✅ *A simple GitHub Actions workflow* to automate tasks  
-✅ *Dockerizing a basic application*  
-✅ *Deploying an app on AWS or Azure*  
-✅ *Learning about CI/CD pipelines* and Infrastructure as Code  
+- Python
+- C++
+- Bash
 
-Stay tuned for my upcoming projects!  
+Artificial Intelligence & Data Science
+
+- Machine Learning fundamentals
+- Data Analysis
+- Statistical Computing
+- AI/ML model development
+
+Cloud & Infrastructure
+
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Linux Administration
+- Docker
+
+Development Tools
+
+- Git & GitHub
+- Visual Studio Code
+- Jupyter Notebook
+- Windows & Linux
 
 ---
 
-🎯 What I'm Currently Doing  
+Current Focus
 
-🔹 Learning *Linux commands & system administration*  
-🔹 Exploring *AWS & cloud computing basics*  
-🔹 Practicing *Git & version control*  
-🔹 Taking online courses on *DevOps & automation*  
+I am currently investing time in developing practical skills in:
+
+- Python programming and problem-solving.
+- Machine Learning algorithms and model development.
+- Mathematics and statistics for Machine Learning.
+- Data analysis and visualization.
+- Deep Learning and Neural Networks.
+- AI model deployment and cloud-based infrastructure.
+
+---
+
+Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Deep Learning
+- Data Science & Analytics
+- Natural Language Processing
+- Intelligent Automation
+- Cloud Computing
+- Software Engineering
 
 ---
 
-## 📫 Connect With Me  
+Projects & Development
 
-🔗 *LinkedIn:* [linkedin.com/in/nizakowa](https://linkedin.com/in/nizakowa)
-📩 *Email:* nizakowa15@gmail.com 
+I use GitHub to document my learning journey, experiment with new technologies, and develop practical solutions.
+
+My goal is to build a portfolio of projects that demonstrate my ability to translate technical knowledge into functional, scalable, and meaningful applications.
 
 ---
-⚡ Fun Fact  
-"Every expert was once a beginner—keep learning and improving!" 🚀
 
-<!---
-NizaKowa/NizaKowa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Connect With Me
+
+- LinkedIn: "linkedin.com/in/nizakowa" (https://linkedin.com/in/nizakowa)
+- Email: "nizakowa15@gmail.com" (mailto:nizakowa15@gmail.com)
+
+---
+
+Driven by curiosity. Grounded in engineering. Focused on building intelligent solutions.
+
+<!--
+NizaKowa/NizaKowa is a special repository because its README.md
+appears on your GitHub profile.
+-->
